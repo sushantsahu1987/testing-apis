@@ -2,7 +2,7 @@
 API testing with Postman, Chai and Newman
 
 ### Dependencies
-1. Newman (npm i newman)
+1. Newman (npm -g newman)
 
 ### Installation
 1. npm install
